@@ -6,12 +6,12 @@ console.log(myFirstString);
 let punteggio;
 punteggio = 5;
 console.log(punteggio);
-punteggio = 10
-console.log(punteggio)
+punteggio = 10;
+console.log(punteggio);
 
 //variabile globale
 const mesi = 12;
-console.log(mesi)
+console.log(mesi);
 
 console.log(`numero di mesi è ${mesi}`); //interpolazione di stringhe con il bactrick (``) al posto dell'apice
 
@@ -25,7 +25,7 @@ console.log(`numero di mesi è ${mesi}`); //interpolazione di stringhe con il ba
 
 let myVariable = 'pippo'; //string
 console.log(`la variabile è di tipo ${typeof myVariable}`);
-myVariable = 15 //variable;
+myVariable = 15; //variable;
 console.log(`la variabile è di tipo ${typeof myVariable}`);
 
 //undefined
@@ -66,12 +66,12 @@ console.log(numberString === numberNumber);//valore E tipo DA USARE SEMRPE (stri
 console.log(numberString != numberNumber); //valore O tipo- disuguaglianza
 console.log(numberString !== numberNumber);//valore E tipo- disuguaglianza DA USARE SEMPRE (strict disequality)
 
-console.log(`numerString è ìdentico a numerNumber? ${strictEquality}`);
+console.log(`numberString è ìdentico a numberNumber? ${strictEquality}`);
 console.log(`numberString è non identico a numberNumber? ${strictDisequality}`);
 
 
 //Operatori logici
-let minAge =18;
+let minAge = 18;
 let maxAge = 40;
 
 //AND
