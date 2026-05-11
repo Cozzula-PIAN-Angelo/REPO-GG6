@@ -108,11 +108,16 @@ console.log(numero === stringa);
    Poi stampale per verificare.
    - "5" + 3  53
    - "5" - 3  2
-   - true + 1  NaN
+   - true + 1  2
    - "10" * "2" 20
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+console.log("5"+ 3);
+console.log("5"-3);
+console.log(true + 1);
+console.log("10"*'2')
 
 
 
