@@ -76,17 +76,17 @@ console.log(`${età} - ${maggiorenne}`);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let persona = 'marco'
-let etàPers = 30
-let vero = true
-let niente = null
-let indefinita = undefined
+let persona = 'marco';
+let etàPers = 30;
+let vero = true;
+let niente = null;
+let indefinita = undefined;
 
-console.log(typeof persona)
-console.log(typeof etàPers)
-console.log(typeof vero)
-console.log(typeof niente)
-console.log(typeof indefinita)
+console.log(typeof persona);
+console.log(typeof etàPers);
+console.log(typeof vero);
+console.log(typeof niente);
+console.log(typeof indefinita);
 
 
 /* ESERCIZIO 6 — === vs ==
@@ -100,8 +100,8 @@ console.log(typeof indefinita)
 let numero = 5;
 let stringa = `5`;
 
-console.log(numero == stringa)
-console.log(numero === stringa)
+console.log(numero == stringa);
+console.log(numero === stringa);
 
 /* ESERCIZIO 7 — Conversioni implicite
    Senza eseguire il codice, prevedi in commento il risultato di queste 4 espressioni.
