@@ -114,10 +114,10 @@ console.log(numero === stringa);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-console.log("5"+ 3);
-console.log("5"-3);
+console.log("5" + 3);
+console.log("5" - 3);
 console.log(true + 1);
-console.log("10"*'2')
+console.log("10" * '2');
 
 
 
@@ -131,11 +131,11 @@ console.log("10"*'2')
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let myNumber = 15
+let myNumber = 15;
 
-console.log(`pari? ${myNumber % 2 === 0}`)
-console.log(`è divibile per 3? ${myNumber % 3 === 0}`)
-console.log(`è divisibile per 3 e pari ${myNumber % 3 === 0} && ${myNumber % 2 === 0} `)
+console.log(`pari? ${myNumber % 2 === 0}`);
+console.log(`è divibile per 3? ${myNumber % 3 === 0}`);
+console.log(`è divisibile per 3 e pari ${myNumber % 3 === 0} && ${myNumber % 2 === 0} `);
 
 
 /* --EXTRA-- ESERCIZIO 9 — Triangolo
